@@ -1,0 +1,1 @@
+Detecting a Loop in a Linked List provides an implementation of the hasLoop method that checks whether a linked list with a given number of nodes contains a loop. It uses the slow and fast pointer technique to identify if the linked list has a loop or not.

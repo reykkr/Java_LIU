@@ -1,0 +1,1 @@
+Splitting Linked List into Odd and Even Lists demonstrates the implementation of a method called splitList that copies odd and even values from a source linked list into separate odd and even linked lists. The original source list remains unchanged while the odd and even lists contain the respective values.

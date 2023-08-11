@@ -1,0 +1,1 @@
+Deleting Negative Integer Nodes in a Linked List demonstrates the implementation of a method named deleteNegative in a Java linked list class. The method iterates through the linked list and removes nodes containing negative integers, ensuring the list only contains non-negative values. This process involves updating node connections to skip over negative nodes.
