@@ -1,0 +1,7 @@
+Road and Street Management System involves implementing a system for managing roads and streets within a country. It includes the implementation of several classes such as Country, Road, Street, and Freeway. The Country class manages the collection of roads and streets, while the subclasses Street and Freeway inherit from the Road class.
+
+The Country class handles the organization of roads and streets in an ArrayList. It provides methods to add roads, count streets, search for streets, and present information about the country's road infrastructure. The Road class defines attributes like speed limit, length, and carpool availability, and the Street and Freeway subclasses inherit and extend these attributes while adding additional information specific to streets and freeways.
+
+The client class, referred to as the application, allows users to interact with the system. It prompts the user to input a country's name and then lets them add freeways and streets to the country's infrastructure. Users can also retrieve information about streets and the country's road network. The application demonstrates the functionality of the searchForStreet method, enabling users to search for specific streets and view their descriptions.
+
+The project showcases object-oriented programming principles, inheritance, and class interactions to create an efficient and organized road and street management system. It offers a comprehensive solution for managing and accessing road information within a country.
