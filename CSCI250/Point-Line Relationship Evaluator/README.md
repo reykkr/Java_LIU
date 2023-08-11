@@ -1,0 +1,3 @@
+Point-Line Relationship Evaluator is a Java program that allows users to input the coordinates of points and a specific 'x' value. The program then determines whether each point lies above a defined line on the coordinate plane. The line's equation, 2 * x + 1 > y, is used to assess the points' positions relative to the line. For each point provided, the program outputs whether the point is positioned above the line or not.
+
+This program can be useful for visualizing and categorizing points based on their relative positions to a linear boundary. It demonstrates basic input handling, mathematical comparisons, and conditional logic in Java programming.

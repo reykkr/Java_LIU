@@ -1,0 +1,3 @@
+Month Number to Name Converter prompts the user to input a month number and then displays the corresponding month name. The program uses a do-while loop to repeatedly ask the user for input and provide month names until the user decides to stop by entering 'n' or 'N'.
+
+It's a simple program that demonstrates basic user input handling and conditional statements for month conversion. The user can enter a month number, and the program will display the corresponding month name. The loop continues until the user decides to exit.

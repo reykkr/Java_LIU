@@ -1,0 +1,3 @@
+Divisor Analyzer Largest and Lowest Divisors Calculator is an implementation of finding the largest and lowest divisors of a given number. The program prompts the user to input a number and then calculates and displays both the largest and the lowest divisors of that number.
+
+The code demonstrates how to use a Scanner to take user input and includes a method findDivisor that takes a number and a boolean parameter to determine whether to find the lowest or largest divisor. The method iterates through possible divisors to find the desired divisor.

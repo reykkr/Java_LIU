@@ -1,0 +1,3 @@
+Visitor Analytics Tool is a tool for calculating and analyzing visitor data. It prompts users to input the number of visitors, time spent, and number of pages viewed, and then calculates and displays the average time spent per visitor and the average pages viewed per visitor. The program continues to loop until the user enters zero visitors, indicating the end of input.
+
+This program can be useful for understanding user engagement and behavior on a website or platform, allowing insights into how much time visitors are spending and how many pages they are viewing on average. It provides a simple way to analyze these metrics and gain insights into user interaction patterns.

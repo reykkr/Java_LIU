@@ -1,0 +1,3 @@
+Octagon Area Calculator calculates the area of an octagon based on the length of its side. It defines a function octagonArea that takes the side length as a parameter and returns the calculated area using the formula 2 * (1 + Math.sqrt(2)) * side * side.
+
+The main method of the program prompts the user to input the length of the side of the octagon using a Scanner object. It then calls the octagonArea function and displays the calculated area of the octagon.
